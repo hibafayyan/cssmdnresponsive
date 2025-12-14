@@ -1,0 +1,24 @@
+.menuIcon {
+ display: inline; }
+
+ .header nav {
+    display: none;
+ }
+
+ .heading .right{
+    display: none;
+    
+}
+
+.container{
+
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.box1,.box2,.box3{
+    flex-grow: 1;
+
+}
+
