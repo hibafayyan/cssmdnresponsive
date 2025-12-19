@@ -216,7 +216,7 @@ table td {
    padding: 15px;
   position: fixed;
 right: 0;
-overflow-y:aut;
+overflow-y:auto;
 }
 
    .box3 ol{
