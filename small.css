@@ -1,6 +1,8 @@
-.container{
-    flex-direction: column;
-    justify-content: flex-start;
 
-}
-    
+    .box1{
+        display: none;
+    }
+
+    .box1 input{
+        width: 50px;
+    }
